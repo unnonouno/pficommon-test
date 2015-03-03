@@ -4,4 +4,4 @@ cd pficommon
 ./waf configure
 ./waf
 ./waf --check
-
+./waf dist
